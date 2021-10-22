@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Ph.D. Candidate in Computer Science and Engineering. I am a member of the<a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a>) and the <a href="https://designlab.ucsd.edu">Design Lab</a> at UC San Diego.
+
+My dissertation focuses on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I use mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
+
+My work spans the fields of user experience, biomedical informatics, human behavior sensing, and applied machine learning.
+
+You can learn more at my website - <a href="https://stevenrick.com/">https://stevenrick.com/</a>
+
 <!--
 **stevenrick/stevenrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
