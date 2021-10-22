@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. Candidate in Computer Science and Engineering. I am a member of the <a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a>) and the <a href="https://designlab.ucsd.edu">Design Lab</a> at UC San Diego.
+I am a Ph.D. Candidate in Computer Science and Engineering and a member of both the <a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a>) and the <a href="https://designlab.ucsd.edu">Design Lab</a> at UC San Diego.
 
 My dissertation focuses on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I use mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
 
