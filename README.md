@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am a Ph.D. Candidate in Computer Science and Engineering and a member of both the <a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a> and the <a href="https://designlab.ucsd.edu">Design Lab</a> at UC San Diego.
+I am a Postdoctoral Research Associate jointly appointed in the <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a> and <a href="https://www.csail.mit.edu/">CSAIL</a>. I'm a member of the <a href="https://cci.mit.edu/">Center for Collective Intelligence</a>.
 
-My dissertation focuses on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I use mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
+Previoiusly I recieved my Ph.D. in Computer Science and Engineering from UC San Diego where I was a member of both the <a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a> and the <a href="https://designlab.ucsd.edu">Design Lab</a>.
 
-My work spans the fields of user experience, biomedical informatics, human behavior sensing, and applied machine learning.
+My dissertation focused on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I used mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
+
+My work generally spans the fields of human-centered design, human behavior sensing, biomedical informatics, language understanding (ASR/NLU), and applied machine learning.
 
 You can learn more at my website - <a href="https://stevenrick.com/">https://stevenrick.com/</a>
 
