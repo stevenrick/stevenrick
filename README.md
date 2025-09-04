@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am a Postdoctoral Research Associate jointly appointed in the <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a> and <a href="https://www.csail.mit.edu/">CSAIL</a>. I'm a member of the <a href="https://cci.mit.edu/">Center for Collective Intelligence</a> and <a href="https://www.csail.mit.edu/research/distributed-robotics-laboratory">Distributed Robotics Laboratory</a>.
+I'm currently a solutions architect at NVIDIA.
 
-Previoiusly I recieved my Ph.D. in Computer Science and Engineering from UC San Diego where I was a member of both the <a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a> and the <a href="https://designlab.ucsd.edu">Design Lab</a>.
+Prevously I was a Postdoctoral Research Associate jointly appointed in the <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a> and <a href="https://www.csail.mit.edu/">CSAIL</a>. I'm a member of the <a href="https://cci.mit.edu/">Center for Collective Intelligence</a> and <a href="https://www.csail.mit.edu/research/distributed-robotics-laboratory">Distributed Robotics Laboratory</a>.
+
+Before that I recieved my Ph.D. in Computer Science and Engineering from UC San Diego where I was a member of both the <a href="https://hxi.ucsd.edu">Human-centered eXtended Intelligence Research Lab</a> and the <a href="https://designlab.ucsd.edu">Design Lab</a>.
 
 My dissertation focused on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I used mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
 
